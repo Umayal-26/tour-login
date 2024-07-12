@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.template{
+    display: inline-block;
+    margin-top: 0px;
+    width: 400px;
+
+    display: inline-block;
+}
+h2{
+  z-index: 1;
+  margin-top: -220px;
+  color: white;
+  text-decoration: underline;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraph{
+    z-index: 1;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 60px;
+}
+.welcome{
+    margin: 10px;
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 20px;
+    padding-top: 0px;
+}
+hr{
+    width: 30px;
+    display: inline-block;
+}
+h1{
+    color: rgb(15, 127, 63);
+    padding: 20px;
+}
+.main{
+    margin: 80px;
+    text-align: center;
+    padding: 0px;
+}
+h5{
+    padding-left: 180px;
+}
+.button1{
+    padding: 10px;
+    width: 80%;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    border-radius: 5px;
+}
+input{
+    height: 30px;
+    border:2px solid rgb(15, 127, 63);
+    border-radius: 7px;
+    color: rgb(194, 189, 189);
+}
+.google{
+    padding: 5px;
+    width: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+.Facebook{
+    padding: 5px;
+    width: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+.Apple{
+    padding: 5px;
+    width: 60px;
+    background-color: white;
+    border-radius: 10px;
+}
+table{
+    padding-left: 80px;
+    text-align: center;
+    justify-content: space-around;
+}
+button:hover{
+    background-color: brown;
+}
+
+
+
